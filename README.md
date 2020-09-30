@@ -1,4 +1,6 @@
 # Responsive Navbar Website
+[Check on Website](https://songjayden.github.io/navbar/)
+
 
  * Web Development with HTML, CSS, JavaScript
  
